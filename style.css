@@ -1,21 +1,15 @@
-/* html{
-  height: 100%;
-  margin: 0;
-  width: 100%;
-} */
-
-body {
-  background: #ffffff;
-  background: linear-gradient(to bottom, #ffffff 0%, #fdf3f5 80%, #fceaed 100%);
+html {
+  background: #fdf3f5;
 }
 
 h1 {
+  font-size: 50px;
   text-align: center;
   color: black;
 }
 
 p {
-  font-family: Arial;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
 }
 
@@ -34,12 +28,12 @@ img {
 }
 
 .main {
-  font-family: arial;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
   text-align: center;
 }
 
 .link {
-  margin-left: 30px;
-  margin-right: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
 }
