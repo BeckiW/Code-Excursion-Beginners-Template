@@ -1,4 +1,4 @@
-# Code-Excursion-Beginners-Template
+# Code Excursion Beginners Class Template
 
 Template for the webpage we built in the Code Excursion beginners class.
 
