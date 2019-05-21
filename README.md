@@ -1,7 +1,7 @@
 # Code-Excursion-Beginners-Template
 
-Template of the webpage we build in the code excursion beginners class.
+Template for the webpage we built in the Code Excursion beginners class.
 
-Download the files using the button in the corner and you can use these as a basis for your future projects.
+Download the files using the button on the right and you can use these as a basis for your future projects.
 
 
